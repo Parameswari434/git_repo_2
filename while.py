@@ -1,5 +1,3 @@
-
-
 i=8
 while i<=20:
     i=i+1
@@ -16,6 +14,7 @@ for a in range(6,20):
     if a==14:
         break
     print(a)
+    print("I updated few lines")
     
 
     
